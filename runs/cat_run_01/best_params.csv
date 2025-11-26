@@ -1,0 +1,2 @@
+depth,learning_rate,l2_leaf_reg,bagging_temperature,random_strength,loss_function,eval_metric,class_weights,random_seed,verbose
+4,0.08696451105631699,4.529186363731318,0.0007787658410143285,4.961057796456089,Logloss,AUC,"[1.0, 3.5834896810506565]",42,False
